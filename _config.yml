@@ -1,4 +1,4 @@
-@import "{{ (https://github.com/pages-themes/minimal) }}";
+theme: jekeyll-theme-merlot
 # FaceTrack
 # Face Recognition Attendance System
 
