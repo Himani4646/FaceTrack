@@ -1,3 +1,4 @@
+@import "{{ (https://github.com/pages-themes/minimal) }}";
 # FaceTrack
 # Face Recognition Attendance System
 
