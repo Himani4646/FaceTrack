@@ -142,13 +142,3 @@ himani3366@gmail.com
 
 ---
 
-### Sample `requirements.txt`
-```
-opencv-python==4.5.5.64
-face_recognition==1.3.0
-numpy==1.22.3
-pandas==1.4.2
-```
-
-## Disclaimer
-This is a sample README. Customize according to your specific implementation and project details.
