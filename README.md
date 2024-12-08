@@ -134,12 +134,11 @@ python main.py --mode [train/recognize]
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-[Specify your license - e.g., MIT License]
+
 
 ## Contact
-[Your Name]
-[Your Email/Contact Information]
+Himani Chunduru
+himani3366@gmail.com
 
 ---
 
